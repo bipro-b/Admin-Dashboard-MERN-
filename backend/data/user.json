@@ -1,0 +1,79 @@
+[
+  {
+  "name": "Konstantine",
+  "email": "kranstead0@narod.ru",
+  "password": "omMDCh",
+  "city": "Nurabelen",
+  "state": null,
+  "country": "ID",
+  "occupation": "Computer Systems Analyst I",
+  "phoneNumber": "8346315874",
+  "transactions": [
+  "63701d74f0323986f3000158",
+  "63701d74f03239d40b00007e",
+  "63701d74f03239867500014b",
+  "63701d74f032398675000152"
+  ],
+  "role": "superadmin"
+  },
+  {
+  "name": "Marilyn",
+  "email": "mdonlon1@hostgator.com",
+  "password": "XRYBnKAfm",
+  "city": "Zhanghekou",
+  "state": null,
+  "country": "CN",
+  "occupation": "Food Chemist",
+  "phoneNumber": "9981906117",
+  "transactions": [
+  "63701d74f03239b7f7000027",
+  "63701d74f03239db69000153",
+  "63701d74f03239569400002d",
+  "63701d74f032394c4900014b"
+  ],
+  "role": "user"
+  },
+  {
+  "name": "Olly",
+  "email": "oveneur2@marketwatch.com",
+  "password": "WwDjOlH",
+  "city": "Muang Sam Sip",
+  "state": null,
+  "country": "TH",
+  "occupation": "Staff Scientist",
+  "phoneNumber": "3868813669",
+  "transactions": [
+  "63701d74f03239d40b00008c",
+  "63701d74f03239b7f700001e",
+  "63701d74f03239867500012e",
+  "63701d74f03239db69000132",
+  "63701d74f032390a34000340",
+  "63701d74f03239d40b000087"
+  ],
+  "role": "admin"
+  },
+  {
+  "name": "Hale",
+  "email": "hpyrah3@bbc.co.uk",
+  "password": "vojl4bBDJ",
+  "city": "San Luis",
+  "state": null,
+  "country": "AR",
+  "occupation": "Associate Professor",
+  "phoneNumber": "8535391908",
+  "transactions": [
+  "63701d74f032390a3400032f",
+  "63701d74f032390a3400033f",
+  "63701d74f03239d59100034c",
+  "63701d74f03239569400001a",
+  "63701d74f03239c72c0001a0",
+  "63701d74f032399c0000013d",
+  "63701d74f03239db69000152",
+  "63701d74f03239b91300001c",
+  "63701d74f03239cdc500003f",
+  "63701d74f03239bef0000159"
+  ],
+  "role": "superadmin"
+  }
+]
+  
